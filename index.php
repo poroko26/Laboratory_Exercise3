@@ -91,7 +91,7 @@
           </aside>
     <article>
         <h2>Registration Form</h2>
-        <p class="marginbot50">Standard form for <strong>V</strong> on a website:</p>
+        <p class="marginbot50">Standard form for <strong>online registration</strong> on a website:</p>
 
         <form action="#second-section" method="POST" enctype="multipart/form-data" class="form-element" name="form">
             <div>
